@@ -51,3 +51,6 @@ gem 'bootstrap', '~> 4.0.0.alpha3'
 source 'https://rails-assets.tenex.tech' do
   gem 'rails-assets-tether'
 end
+
+gem 'faye-websocket'
+gem 'puma'
